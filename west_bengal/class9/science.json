@@ -1,1 +1,97 @@
 
+{
+  "board": "West Bengal",
+  "class": "9",
+  "subject": "Science",
+  "chapters": [
+    {
+      "id": 1,
+      "name": "Motion",
+      "keywords": [
+        "motion",
+        "speed",
+        "velocity",
+        "distance",
+        "time"
+      ],
+      "summary": "Motion means change of position of an object with time.",
+      "qa": [
+        {
+          "q": "what is motion",
+          "a": "Motion means change of position with time."
+        },
+        {
+          "q": "what is speed",
+          "a": "Speed is distance travelled per unit time."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Force",
+      "keywords": [
+        "force",
+        "push",
+        "pull",
+        "newton"
+      ],
+      "summary": "Force is a push or pull which can change the state of motion of an object.",
+      "qa": [
+        {
+          "q": "what is force",
+          "a": "Force is a push or pull."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Energy",
+      "keywords": [
+        "energy",
+        "work",
+        "kinetic",
+        "potential"
+      ],
+      "summary": "Energy is the capacity to do work.",
+      "qa": [
+        {
+          "q": "what is energy",
+          "a": "Energy is the capacity to do work."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Matter",
+      "keywords": [
+        "matter",
+        "solid",
+        "liquid",
+        "gas"
+      ],
+      "summary": "Matter is anything that has mass and occupies space.",
+      "qa": [
+        {
+          "q": "what is matter",
+          "a": "Matter is anything having mass and volume."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Cell",
+      "keywords": [
+        "cell",
+        "nucleus",
+        "biology"
+      ],
+      "summary": "Cell is the basic structural and functional unit of life.",
+      "qa": [
+        {
+          "q": "what is cell",
+          "a": "Cell is the basic unit of life."
+        }
+      ]
+    }
+  ]
+}
