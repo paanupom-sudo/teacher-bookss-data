@@ -1,1 +1,18 @@
 
+{
+  "board": "West Bengal",
+  "class": "9",
+  "subject": "Mathematics",
+  "chapters": [
+    {
+      "name": "Algebra",
+      "keywords": ["algebra", "equation", "x"],
+      "summary": "Algebra uses symbols and variables."
+    },
+    {
+      "name": "Geometry",
+      "keywords": ["geometry", "triangle", "angle"],
+      "summary": "Geometry studies shapes and shapes properties."
+    }
+  ]
+}
