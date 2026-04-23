@@ -2,100 +2,225 @@
   "board": "West Bengal",
   "class": "7",
   "subject": "Science",
-  "version": "2.0",
+  "version": "2.5",
   "language": ["English", "Bengali"],
   "chapters": [
     {
       "id": 1,
       "name": "Heat Environment",
-      "keywords": ["heat", "temperature", "thermometer", "তাপ", "উষ্ণতা", "ঠান্ডা", "গরম"],
-      "summary": "Heat and temperature help us understand hotness and coldness of objects.",
-      "definition_bn": "তাপ ও উষ্ণতা দ্বারা কোনো বস্তুর গরম বা ঠান্ডা অবস্থা বোঝা যায়।",
-      "facts": [
-        "Thermometer is used to measure temperature.",
-        "Touch cannot accurately measure hotness.",
-        "Temperature is measured by numbers."
+      "keywords": [
+        "heat",
+        "temperature",
+        "thermometer",
+        "latent heat",
+        "specific heat",
+        "heating",
+        "cooling",
+        "mass",
+        "calorie",
+        "joule",
+        "melting",
+        "ice",
+        "water",
+        "climate",
+        "desert",
+        "polar region",
+        "camel",
+        "cactus",
+        "wool",
+        "sea breeze",
+        "land breeze",
+        "greenhouse effect",
+        "global warming",
+        "animal adaptation",
+        "plant adaptation",
+        "তাপ",
+        "উষ্ণতা",
+        "থার্মোমিটার",
+        "ভর",
+        "লীন তাপ",
+        "আপেক্ষিক তাপ",
+        "বরফ",
+        "গলন",
+        "জলবায়ু",
+        "মরুভূমি",
+        "মেরু অঞ্চল",
+        "উট",
+        "ক্যাকটাস",
+        "সমুদ্র বায়ু",
+        "স্থল বায়ু",
+        "বিশ্ব উষ্ণায়ন"
       ],
+      "summary": "Heat, temperature, latent heat, specific heat and effects of heat in environment.",
+      "definition_bn": "তাপ, উষ্ণতা, লীন তাপ, আপেক্ষিক তাপ ও পরিবেশে তাপের প্রভাব।",
       "qa": [
         {
           "q": "what is heat",
-          "a": "Heat is a form of energy which produces sensation of hotness."
+          "a": "Heat is a form of energy transferred from hotter body to colder body."
         },
         {
           "q": "তাপ কি",
-          "a": "তাপ হলো এক প্রকার শক্তি যা গরমের অনুভূতি সৃষ্টি করে।"
+          "a": "তাপ হলো এক প্রকার শক্তি যা বেশি উষ্ণ বস্তু থেকে কম উষ্ণ বস্তুর দিকে যায়।"
         },
         {
           "q": "what is temperature",
-          "a": "Temperature is the measure of hotness or coldness of a body."
+          "a": "Temperature is the measure of hotness or coldness."
         },
         {
           "q": "উষ্ণতা কি",
           "a": "কোনো বস্তুর গরম বা ঠান্ডা অবস্থার পরিমাপকে উষ্ণতা বলে।"
         },
         {
-          "q": "why touch is not correct to measure hotness",
-          "a": "Touch gives only sensation, so it cannot measure temperature accurately."
+          "q": "what is thermometer",
+          "a": "Thermometer is used to measure temperature."
         },
         {
-          "q": "স্পর্শ দ্বারা তাপমাত্রা সঠিক বোঝা যায় না কেন",
-          "a": "স্পর্শে শুধু অনুভূতি পাওয়া যায়, তাই সঠিক তাপমাত্রা জানা যায় না।"
+          "q": "থার্মোমিটার কি",
+          "a": "থার্মোমিটার তাপমাত্রা মাপার যন্ত্র।"
         },
         {
-          "q": "which instrument measures temperature",
-          "a": "Thermometer measures temperature."
+          "q": "what is specific heat",
+          "a": "Heat needed to raise temperature of unit mass of a substance by 1°C is specific heat."
         },
         {
-          "q": "তাপমাত্রা মাপার যন্ত্র কি",
-          "a": "তাপমাত্রা মাপার যন্ত্র হলো থার্মোমিটার।"
+          "q": "আপেক্ষিক তাপ কি",
+          "a": "একক ভরের কোনো পদার্থের উষ্ণতা 1°C বাড়াতে যে তাপ লাগে তাকে আপেক্ষিক তাপ বলে।"
         },
         {
-          "q": "why numbers are used to express hotness",
-          "a": "Numbers give exact idea of temperature."
+          "q": "what is latent heat",
+          "a": "Heat absorbed or released during change of state without temperature change is latent heat."
         },
         {
-          "q": "গরম বা ঠান্ডা বোঝাতে সংখ্যা কেন ব্যবহার করা হয়",
-          "a": "সংখ্যা ব্যবহার করলে সঠিক তাপমাত্রা বোঝা যায়।"
+          "q": "লীন তাপ কি",
+          "a": "অবস্থা পরিবর্তনের সময় তাপমাত্রা না বদলে যে তাপ গ্রহণ বা বর্জন হয় তাকে লীন তাপ বলে।"
         },
         {
-          "q": "what happens when coloured water bottle is kept in hot water",
-          "a": "The coloured water rises upward in the tube."
+          "q": "why ice remains at 0 degree during melting",
+          "a": "The absorbed heat is used for change of state."
         },
         {
-          "q": "গরম জলে রঙিন জলভর্তি শিশি রাখলে কি হয়",
-          "a": "নলের ভিতরে রঙিন জল উপরে উঠে যায়।"
+          "q": "বরফ গলতে গলতে 0°C থাকে কেন",
+          "a": "প্রাপ্ত তাপ অবস্থা পরিবর্তনে ব্যবহৃত হয়।"
         },
         {
-          "q": "why coloured water rises in tube",
-          "a": "Because liquid expands when heated."
+          "q": "latent heat of fusion of ice",
+          "a": "80 calorie per gram."
         },
         {
-          "q": "রঙিন জল উপরে উঠে যায় কেন",
-          "a": "তরল পদার্থ গরম হলে প্রসারিত হয় বলে।"
+          "q": "বরফের গলনের লীন তাপ কত",
+          "a": "প্রতি গ্রাম 80 ক্যালোরি।"
         },
         {
-          "q": "what is expansion",
-          "a": "Increase in size of a substance due to heating is called expansion."
+          "q": "si unit of heat",
+          "a": "SI unit of heat is Joule."
         },
         {
-          "q": "প্রসারণ কাকে বলে",
-          "a": "তাপ পেয়ে কোনো পদার্থের আয়তন বৃদ্ধি পাওয়াকে প্রসারণ বলে।"
+          "q": "তাপের SI একক কি",
+          "a": "তাপের SI একক জুল।"
         },
         {
-          "q": "what happens to liquid on cooling",
-          "a": "Liquid contracts on cooling."
+          "q": "old unit of heat",
+          "a": "Calorie is old unit of heat."
         },
         {
-          "q": "ঠান্ডা করলে তরলের কি হয়",
-          "a": "ঠান্ডা করলে তরল সঙ্কুচিত হয়।"
+          "q": "তাপের পুরনো একক কি",
+          "a": "ক্যালোরি তাপের পুরনো একক।"
         },
         {
-          "q": "why thermometer uses liquid",
-          "a": "Because liquid expands and contracts clearly with temperature."
+          "q": "what is adaptation",
+          "a": "Adaptation is special feature that helps living organisms survive."
         },
         {
-          "q": "থার্মোমিটারে তরল ব্যবহার করা হয় কেন",
-          "a": "কারণ তরল তাপে প্রসারিত ও ঠান্ডায় সঙ্কুচিত হয়।"
+          "q": "অভিযোজন কি",
+          "a": "পরিবেশে বাঁচার জন্য জীবের বিশেষ বৈশিষ্ট্যকে অভিযোজন বলে।"
+        },
+        {
+          "q": "how polar bear survives in cold region",
+          "a": "Polar bear survives due to thick fur and fat layer."
+        },
+        {
+          "q": "মেরু ভালুক ঠান্ডায় বাঁচে কিভাবে",
+          "a": "ঘন লোম ও চর্বির স্তরের জন্য।"
+        },
+        {
+          "q": "how camel is adapted to desert",
+          "a": "Camel stores fat, needs less water and tolerates heat."
+        },
+        {
+          "q": "উট মরুভূমির জন্য কীভাবে অভিযোজিত",
+          "a": "উট চর্বি সঞ্চয় করে, কম জল লাগে এবং বেশি তাপ সহ্য করে।"
+        },
+        {
+          "q": "how cactus is adapted to desert",
+          "a": "Cactus stores water, has spines and thick stem."
+        },
+        {
+          "q": "ক্যাকটাস মরুভূমির জন্য কীভাবে অভিযোজিত",
+          "a": "ক্যাকটাস জল সঞ্চয় করে, কাঁটা থাকে এবং মোটা কাণ্ড থাকে।"
+        },
+        {
+          "q": "why woollen clothes keep us warm",
+          "a": "Wool traps air and prevents heat loss."
+        },
+        {
+          "q": "উলের কাপড় গরম রাখে কেন",
+          "a": "উল বায়ু আটকে রাখে ও তাপ বের হতে দেয় না।"
+        },
+        {
+          "q": "what is sea breeze",
+          "a": "Cool air blowing from sea to land during day is sea breeze."
+        },
+        {
+          "q": "সমুদ্র বায়ু কি",
+          "a": "দিনে সমুদ্র থেকে স্থলের দিকে ঠান্ডা বায়ু প্রবাহ।"
+        },
+        {
+          "q": "what is land breeze",
+          "a": "Air blowing from land to sea at night is land breeze."
+        },
+        {
+          "q": "স্থল বায়ু কি",
+          "a": "রাতে স্থল থেকে সমুদ্রের দিকে বায়ু প্রবাহ।"
+        },
+        {
+          "q": "what is greenhouse effect",
+          "a": "Trapping of heat by atmospheric gases is greenhouse effect."
+        },
+        {
+          "q": "গ্রীনহাউস প্রভাব কি",
+          "a": "বায়ুমণ্ডলের গ্যাসের দ্বারা তাপ আটকে যাওয়াকে গ্রীনহাউস প্রভাব বলে।"
+        },
+        {
+          "q": "what is global warming",
+          "a": "Increase in average earth temperature is global warming."
+        },
+        {
+          "q": "বিশ্ব উষ্ণায়ন কি",
+          "a": "পৃথিবীর গড় তাপমাত্রা বৃদ্ধি পাওয়াকে বিশ্ব উষ্ণায়ন বলে।"
+        },
+        {
+          "q": "causes of global warming",
+          "a": "Increase of greenhouse gases like carbon dioxide and methane."
+        },
+        {
+          "q": "বিশ্ব উষ্ণায়নের কারণ কি",
+          "a": "কার্বন ডাই-অক্সাইড ও মিথেনের মতো গ্যাস বৃদ্ধি।"
+        },
+        {
+          "q": "effects of global warming",
+          "a": "Melting ice, rise of sea level and climate change."
+        },
+        {
+          "q": "বিশ্ব উষ্ণায়নের ফল কি",
+          "a": "বরফ গলা, সমুদ্রপৃষ্ঠ বৃদ্ধি ও জলবায়ু পরিবর্তন।"
+        },
+        {
+          "q": "how to reduce global warming",
+          "a": "Plant trees, reduce pollution and save energy."
+        },
+        {
+          "q": "বিশ্ব উষ্ণায়ন কমানোর উপায় কি",
+          "a": "গাছ লাগানো, দূষণ কমানো ও শক্তি সঞ্চয়।"
         }
       ]
     }
