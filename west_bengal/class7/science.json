@@ -232,8 +232,287 @@
             "A stick appears bent in water due to refraction.",
             "Light can travel through vacuum."
           ],
-          "qa": 
-          [
+          "qa": [
+            {
+              "q": "what is light",
+              "a": "Light is a form of energy that enables us to see objects."
+            },
+            {
+              "q": "আলো কি",
+              "a": "আলো এক প্রকার শক্তি যার সাহায্যে আমরা বস্তু দেখতে পাই।"
+            },
+            {
+              "q": "why do we need light",
+              "a": "We need light to see objects clearly."
+            },
+            {
+              "q": "আমাদের আলো কেন দরকার",
+              "a": "বস্তু দেখার জন্য আমাদের আলো দরকার।"
+            },
+            {
+              "q": "what is source of light",
+              "a": "Any object that gives light is called a source of light."
+            },
+            {
+              "q": "আলোর উৎস কাকে বলে",
+              "a": "যে বস্তু আলো দেয় তাকে আলোর উৎস বলে।"
+            },
+            {
+              "q": "what is luminous object",
+              "a": "An object which emits its own light is called luminous object."
+            },
+            {
+              "q": "স্বপ্রভ বস্তু কাকে বলে",
+              "a": "যে বস্তু নিজে আলো দেয় তাকে স্বপ্রভ বস্তু বলে।"
+            },
+            {
+              "q": "examples of luminous objects",
+              "a": "Sun, stars, candle flame, electric bulb and firefly are luminous objects."
+            },
+            {
+              "q": "স্বপ্রভ বস্তুর উদাহরণ দাও",
+              "a": "সূর্য, তারা, মোমবাতির শিখা, বৈদ্যুতিক বাতি ও জোনাকি।"
+            },
+            {
+              "q": "what is non luminous object",
+              "a": "An object which does not emit its own light is called non-luminous object."
+            },
+            {
+              "q": "অপ্রভ বস্তু কাকে বলে",
+              "a": "যে বস্তু নিজে আলো দেয় না তাকে অপ্রভ বস্তু বলে।"
+            },
+            {
+              "q": "examples of non luminous objects",
+              "a": "Book, wood, chair, table and stone are non-luminous objects."
+            },
+            {
+              "q": "অপ্রভ বস্তুর উদাহরণ দাও",
+              "a": "বই, কাঠ, চেয়ার, টেবিল ও পাথর।"
+            },
+            {
+              "q": "is moon luminous",
+              "a": "No, moon is non-luminous because it reflects sunlight."
+            },
+            {
+              "q": "চাঁদ কি স্বপ্রভ বস্তু",
+              "a": "না, চাঁদ স্বপ্রভ নয়; এটি সূর্যের আলো প্রতিফলিত করে।"
+            },
+            {
+              "q": "why can we see moon",
+              "a": "We can see the moon because it reflects sunlight."
+            },
+            {
+              "q": "চাঁদকে দেখতে পাই কেন",
+              "a": "চাঁদ সূর্যের আলো প্রতিফলিত করে বলে আমরা দেখতে পাই।"
+            },
+            {
+              "q": "what is transparent medium",
+              "a": "A medium through which light passes easily and objects are seen clearly is called transparent medium."
+            },
+            {
+              "q": "স্বচ্ছ মাধ্যম কাকে বলে",
+              "a": "যে মাধ্যমে আলো সহজে যায় এবং স্পষ্ট দেখা যায় তাকে স্বচ্ছ মাধ্যম বলে।"
+            },
+            {
+              "q": "examples of transparent medium",
+              "a": "Air, clean glass and pure water are transparent media."
+            },
+            {
+              "q": "স্বচ্ছ মাধ্যমের উদাহরণ দাও",
+              "a": "বায়ু, পরিষ্কার কাচ ও বিশুদ্ধ জল।"
+            },
+            {
+              "q": "what is translucent medium",
+              "a": "A medium through which some light passes but objects are not seen clearly is called translucent medium."
+            },
+            {
+              "q": "ঈষৎ স্বচ্ছ মাধ্যম কাকে বলে",
+              "a": "যে মাধ্যমে কিছু আলো যায় কিন্তু স্পষ্ট দেখা যায় না তাকে ঈষৎ স্বচ্ছ মাধ্যম বলে।"
+            },
+            {
+              "q": "examples of translucent medium",
+              "a": "Frosted glass, tracing paper and oiled paper are translucent media."
+            },
+            {
+              "q": "ঈষৎ স্বচ্ছ মাধ্যমের উদাহরণ দাও",
+              "a": "ঘষা কাচ, ট্রেসিং পেপার ও তেলমাখা কাগজ।"
+            },
+            {
+              "q": "what is opaque medium",
+              "a": "A medium through which light cannot pass is called opaque medium."
+            },
+            {
+              "q": "অস্বচ্ছ মাধ্যম কাকে বলে",
+              "a": "যে মাধ্যমে আলো যেতে পারে না তাকে অস্বচ্ছ মাধ্যম বলে।"
+            },
+            {
+              "q": "examples of opaque medium",
+              "a": "Wood, wall, iron and stone are opaque media."
+            },
+            {
+              "q": "অস্বচ্ছ মাধ্যমের উদাহরণ দাও",
+              "a": "কাঠ, দেয়াল, লোহা ও পাথর।"
+            },
+            {
+              "q": "how does light travel",
+              "a": "Light travels in a straight line."
+            },
+            {
+              "q": "আলো কীভাবে চলে",
+              "a": "আলো সরলরেখায় চলে।"
+            },
+            {
+              "q": "what is rectilinear propagation of light",
+              "a": "The travelling of light in straight line is called rectilinear propagation of light."
+            },
+            {
+              "q": "আলোর সরলরৈখিক গতি কাকে বলে",
+              "a": "আলো সরলরেখায় চলার ঘটনাকে আলোর সরলরৈখিক গতি বলে।"
+            },
+            {
+              "q": "what is point source of light",
+              "a": "A very small source of light is called point source of light."
+            },
+            {
+              "q": "বিন্দু আলোক উৎস কাকে বলে",
+              "a": "খুব ছোট আলোর উৎসকে বিন্দু আলোক উৎস বলে।"
+            },
+            {
+              "q": "example of point source",
+              "a": "A tiny hole emitting light or a distant star acts as point source."
+            },
+            {
+              "q": "বিন্দু আলোক উৎসের উদাহরণ দাও",
+              "a": "ছোট ছিদ্র দিয়ে বের হওয়া আলো বা দূরের তারা।"
+            },
+            {
+              "q": "what is extended source of light",
+              "a": "A source larger than point source is called extended source of light."
+            },
+            {
+              "q": "বিস্তৃত আলোক উৎস কাকে বলে",
+              "a": "বিন্দু উৎসের চেয়ে বড় আলোর উৎসকে বিস্তৃত আলোক উৎস বলে।"
+            },
+            {
+              "q": "examples of extended source",
+              "a": "Sun, torch and bulb are extended sources."
+            },
+            {
+              "q": "বিস্তৃত আলোক উৎসের উদাহরণ দাও",
+              "a": "সূর্য, টর্চ ও বৈদ্যুতিক বাতি।"
+            },
+            {
+              "q": "what is reflection of light",
+              "a": "The bouncing back of light from a surface is called reflection of light."
+            },
+            {
+              "q": "প্রতিফলন কাকে বলে",
+              "a": "আলো কোনো পৃষ্ঠে পড়ে ফিরে আসার ঘটনাকে প্রতিফলন বলে।"
+            },
+            {
+              "q": "example of reflection",
+              "a": "Image formation in mirror is an example of reflection."
+            },
+            {
+              "q": "প্রতিফলনের উদাহরণ দাও",
+              "a": "আয়নায় প্রতিবিম্ব গঠন প্রতিফলনের উদাহরণ।"
+            },
+            {
+              "q": "what is refraction of light",
+              "a": "The bending of light when it passes from one medium to another is called refraction."
+            },
+            {
+              "q": "প্রতিসরণ কাকে বলে",
+              "a": "আলো এক মাধ্যম থেকে অন্য মাধ্যমে গেলে বেঁকে যাওয়াকে প্রতিসরণ বলে।"
+            },
+            {
+              "q": "why does stick appear bent in water",
+              "a": "A stick appears bent in water due to refraction of light."
+            },
+            {
+              "q": "জলে লাঠি বাঁকা দেখায় কেন",
+              "a": "আলোর প্রতিসরণের জন্য জলে লাঠি বাঁকা দেখায়।"
+            },
+            {
+              "q": "what is shadow",
+              "a": "The dark region formed when an opaque object blocks light is called shadow."
+            },
+            {
+              "q": "ছায়া কাকে বলে",
+              "a": "অস্বচ্ছ বস্তু আলো আটকালে যে অন্ধকার অংশ তৈরি হয় তাকে ছায়া বলে।"
+            },
+            {
+              "q": "why is shadow formed",
+              "a": "Shadow is formed when light is blocked by an opaque object."
+            },
+            {
+              "q": "ছায়া সৃষ্টি হয় কেন",
+              "a": "অস্বচ্ছ বস্তু আলোর পথে বাধা দিলে ছায়া সৃষ্টি হয়।"
+            },
+            {
+              "q": "why can we not see in darkness",
+              "a": "We cannot see in darkness because no light enters our eyes."
+            },
+            {
+              "q": "অন্ধকারে দেখতে পাই না কেন",
+              "a": "চোখে আলো না এলে আমরা অন্ধকারে দেখতে পাই না।"
+            },
+            {
+              "q": "why can we see objects during daytime",
+              "a": "We can see objects in daytime because sunlight falls on them and enters our eyes."
+            },
+            {
+              "q": "দিনে বস্তু দেখতে পাই কেন",
+              "a": "সূর্যের আলো বস্তুর উপর পড়ে চোখে আসে বলে দিনে বস্তু দেখতে পাই।"
+            },
+            {
+              "q": "why can we see with lamp at night",
+              "a": "At night we can see with lamp because the lamp emits light."
+            },
+            {
+              "q": "রাতে বাতি জ্বালালে দেখতে পাই কেন",
+              "a": "বাতি আলো দেয় বলে রাতে দেখতে পাই।"
+            },
+            {
+              "q": "why do we see image in pond water",
+              "a": "We see image in pond water due to reflection of light."
+            },
+            {
+              "q": "পুকুরের জলে ছবি দেখা যায় কেন",
+              "a": "আলোর প্রতিফলনের জন্য পুকুরের জলে ছবি দেখা যায়।"
+            },
+            {
+              "q": "can light travel without medium",
+              "a": "Yes, light can travel through vacuum."
+            },
+            {
+              "q": "আলো কি মাধ্যম ছাড়া চলতে পারে",
+              "a": "হ্যাঁ, আলো শূন্যস্থানে চলতে পারে।"
+            },
+            {
+              "q": "does air allow light",
+              "a": "Yes, air allows light because it is transparent."
+            },
+            {
+              "q": "বায়ুর মধ্যে দিয়ে আলো যায় কি",
+              "a": "হ্যাঁ, বায়ু স্বচ্ছ হওয়ায় আলো যায়।"
+            },
+            {
+              "q": "does wood allow light",
+              "a": "No, wood does not allow light because it is opaque."
+            },
+            {
+              "q": "কাঠের মধ্যে দিয়ে আলো যায় কি",
+              "a": "না, কাঠ অস্বচ্ছ বলে আলো যায় না।"
+            },
+            {
+              "q": "does frosted glass show clear image",
+              "a": "No, frosted glass does not show clear image."
+            },
+            {
+              "q": "ঘষা কাচে স্পষ্ট দেখা যায় কি",
+              "a": "না, ঘষা কাচে স্পষ্ট দেখা যায় না।"
+            },
             {
               "q": "হাতকে মোমবাতির কাছে আনলে ছায়ার আকার কেমন হয়?",
               "a": "হাতকে মোমবাতির কাছে আনলে ছায়ার আকার ক্রমে বড় হতে থাকে। কারণ বস্তু আলোর উৎসের কাছে এলে পর্দায় বড় ছায়া তৈরি হয়।"
