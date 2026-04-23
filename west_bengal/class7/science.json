@@ -51,176 +51,136 @@
         "স্থল বায়ু",
         "বিশ্ব উষ্ণায়ন"
       ],
-      "summary": "Heat, temperature, latent heat, specific heat and effects of heat in environment.",
-      "definition_bn": "তাপ, উষ্ণতা, লীন তাপ, আপেক্ষিক তাপ ও পরিবেশে তাপের প্রভাব।",
+      "summary": "An in-depth exploration of heat, temperature, specific and latent heat, alongside understanding how living organisms and the environment adapt to temperature variations.",
+      "definition_bn": "তাপ, উষ্ণতা, লীন তাপ ও আপেক্ষিক তাপের বৈজ্ঞানিক ধারণা এবং পরিবেশ ও জীবজগতের ওপর তাপমাত্রার প্রভাবের বিস্তারিত আলোচনা।",
       "qa": [
         {
-          "q": "what is heat",
-          "a": "Heat is a form of energy transferred from hotter body to colder body."
+          "q": "What exactly is heat?",
+          "a": "Heat is a form of thermal energy that naturally flows from a hotter object to a colder one until both reach the same temperature."
         },
         {
-          "q": "তাপ কি",
-          "a": "তাপ হলো এক প্রকার শক্তি যা বেশি উষ্ণ বস্তু থেকে কম উষ্ণ বস্তুর দিকে যায়।"
+          "q": "তাপ কাকে বলে?",
+          "a": "তাপ হলো এক প্রকার শক্তি, যা গ্রহণ করলে বস্তু গরম হয় এবং বর্জন করলে বস্তু ঠান্ডা হয়। এটি সবসময় উষ্ণ বস্তু থেকে শীতল বস্তুর দিকে প্রবাহিত হয়।"
         },
         {
-          "q": "what is temperature",
-          "a": "Temperature is the measure of hotness or coldness."
+          "q": "How do we define temperature?",
+          "a": "Temperature is a physical quantity that measures the degree of hotness or coldness of an object. It determines the direction of heat flow."
         },
         {
-          "q": "উষ্ণতা কি",
-          "a": "কোনো বস্তুর গরম বা ঠান্ডা অবস্থার পরিমাপকে উষ্ণতা বলে।"
+          "q": "উষ্ণতা বা তাপমাত্রা বলতে কী বোঝায়?",
+          "a": "উষ্ণতা বা তাপমাত্রা হলো বস্তুর এমন এক তাপীয় অবস্থা, যা ঠিক করে দেয় ওই বস্তুটি অন্য কোনো বস্তুকে তাপ দেবে নাকি অন্য বস্তু থেকে তাপ গ্রহণ করবে।"
         },
         {
-          "q": "what is thermometer",
-          "a": "Thermometer is used to measure temperature."
+          "q": "Which instrument is used to measure temperature?",
+          "a": "A thermometer is an instrument used to accurately measure the temperature of an object or environment."
         },
         {
-          "q": "থার্মোমিটার কি",
-          "a": "থার্মোমিটার তাপমাত্রা মাপার যন্ত্র।"
+          "q": "তাপমাত্রা পরিমাপক যন্ত্রের নাম কী?",
+          "a": "কোনো বস্তুর তাপমাত্রা নিখুঁতভাবে পরিমাপ করার জন্য যে যন্ত্র ব্যবহার করা হয়, তাকে থার্মোমিটার বলে।"
         },
         {
-          "q": "what is specific heat",
-          "a": "Heat needed to raise temperature of unit mass of a substance by 1°C is specific heat."
+          "q": "What do you mean by specific heat?",
+          "a": "Specific heat is the amount of heat energy required to raise the temperature of a unit mass of a substance by exactly 1°C."
         },
         {
-          "q": "আপেক্ষিক তাপ কি",
-          "a": "একক ভরের কোনো পদার্থের উষ্ণতা 1°C বাড়াতে যে তাপ লাগে তাকে আপেক্ষিক তাপ বলে।"
+          "q": "আপেক্ষিক তাপ কাকে বলে?",
+          "a": "একক ভরের কোনো পদার্থের উষ্ণতা 1°C বৃদ্ধি করতে যে পরিমাণ তাপের প্রয়োজন হয়, তাকে ওই পদার্থের আপেক্ষিক তাপ বলা হয়।"
         },
         {
-          "q": "what is latent heat",
-          "a": "Heat absorbed or released during change of state without temperature change is latent heat."
+          "q": "What is latent heat?",
+          "a": "Latent heat is the 'hidden' heat energy absorbed or released by a substance during a change of state (like solid to liquid), without changing its actual temperature."
         },
         {
-          "q": "লীন তাপ কি",
-          "a": "অবস্থা পরিবর্তনের সময় তাপমাত্রা না বদলে যে তাপ গ্রহণ বা বর্জন হয় তাকে লীন তাপ বলে।"
+          "q": "লীন তাপ কী?",
+          "a": "উষ্ণতা অপরিবর্তিত রেখে শুধুমাত্র অবস্থার পরিবর্তনের জন্য (যেমন- কঠিন থেকে তরল) কোনো পদার্থ যে পরিমাণ তাপ গ্রহণ বা বর্জন করে, তাকে লীন তাপ বলে।"
         },
         {
-          "q": "why ice remains at 0 degree during melting",
-          "a": "The absorbed heat is used for change of state."
+          "q": "Why does the temperature of melting ice remain constant at 0°C?",
+          "a": "Because the heat energy supplied is entirely used to break the molecular bonds and change the state from solid to liquid, rather than raising the temperature. This is known as latent heat of fusion."
         },
         {
-          "q": "বরফ গলতে গলতে 0°C থাকে কেন",
-          "a": "প্রাপ্ত তাপ অবস্থা পরিবর্তনে ব্যবহৃত হয়।"
+          "q": "বরফ গলার সময় তার উষ্ণতা 0°C-এ স্থির থাকে কেন?",
+          "a": "কারণ এই সময় প্রয়োগ করা তাপ বরফের উষ্ণতা না বাড়িয়ে তার কঠিন অবস্থা থেকে তরল অবস্থায় রূপান্তর করতে সাহায্য করে। এই তাপ লীন তাপ হিসেবে শোষিত হয়।"
         },
         {
-          "q": "latent heat of fusion of ice",
-          "a": "80 calorie per gram."
+          "q": "What does 'latent heat of fusion of ice is 80 cal/g' mean?",
+          "a": "It means that 1 gram of pure ice at 0°C requires exactly 80 calories of heat energy to completely melt into 1 gram of water at 0°C."
         },
         {
-          "q": "বরফের গলনের লীন তাপ কত",
-          "a": "প্রতি গ্রাম 80 ক্যালোরি।"
+          "q": "বরফ গলনের লীন তাপ 80 ক্যালোরি/গ্রাম বলতে কী বোঝায়?",
+          "a": "এর অর্থ হলো, 0°C উষ্ণতার 1 গ্রাম বিশুদ্ধ বরফকে 0°C উষ্ণতার 1 গ্রাম বিশুদ্ধ জলে পরিণত করতে বাইরে থেকে ঠিক 80 ক্যালোরি তাপ প্রয়োগ করতে হবে।"
         },
         {
-          "q": "si unit of heat",
-          "a": "SI unit of heat is Joule."
+          "q": "What are the standard units of heat?",
+          "a": "The SI unit of heat is the Joule (J), while the older CGS unit, still widely used, is the Calorie (cal)."
         },
         {
-          "q": "তাপের SI একক কি",
-          "a": "তাপের SI একক জুল।"
+          "q": "তাপের SI ও CGS একক কী কী?",
+          "a": "তাপের SI একক হলো 'জুল' (Joule) এবং CGS একক হলো 'ক্যালোরি' (Calorie)।"
         },
         {
-          "q": "old unit of heat",
-          "a": "Calorie is old unit of heat."
+          "q": "What is adaptation in biology?",
+          "a": "Adaptation is a physical or behavioral feature that develops over time, helping a living organism survive and reproduce in its specific changing environment."
         },
         {
-          "q": "তাপের পুরনো একক কি",
-          "a": "ক্যালোরি তাপের পুরনো একক।"
+          "q": "পরিবেশের সাথে অভিযোজন বলতে কী বোঝো?",
+          "a": "পরিবর্তিত পরিবেশের সঙ্গে মানিয়ে নিয়ে বেঁচে থাকার জন্য এবং বংশবৃদ্ধির জন্য জীবদেহে যে গঠনগত বা আচরণগত পরিবর্তন ঘটে, তাকে অভিযোজন বলে।"
         },
         {
-          "q": "what is adaptation",
-          "a": "Adaptation is special feature that helps living organisms survive."
+          "q": "How does a polar bear survive in extreme freezing regions?",
+          "a": "Polar bears have a thick layer of fat (blubber) under their skin and dense white fur that acts as an excellent insulator to trap body heat."
         },
         {
-          "q": "অভিযোজন কি",
-          "a": "পরিবেশে বাঁচার জন্য জীবের বিশেষ বৈশিষ্ট্যকে অভিযোজন বলে।"
+          "q": "মেরু ভালুক কীভাবে তীব্র ঠান্ডায় বেঁচে থাকে?",
+          "a": "মেরু ভালুকের চামড়ার নিচে পুরু চর্বির স্তর (ব্লাবার) এবং গায়ে ঘন সাদা লোম থাকে, যা শীতবস্ত্রের মতো কাজ করে শরীরের তাপ বাইরে বেরোতে দেয় না।"
         },
         {
-          "q": "how polar bear survives in cold region",
-          "a": "Polar bear survives due to thick fur and fat layer."
+          "q": "What are the survival adaptations of a camel in the harsh desert?",
+          "a": "Camels store fat in their humps for backup energy, have specialized kidneys to minimize water loss, and possess thick padded feet for walking on scorching sand."
         },
         {
-          "q": "মেরু ভালুক ঠান্ডায় বাঁচে কিভাবে",
-          "a": "ঘন লোম ও চর্বির স্তরের জন্য।"
+          "q": "মরুভূমির চরম পরিবেশে উট কীভাবে মানিয়ে নেয়?",
+          "a": "উটের কুঁজে সঞ্চিত চর্বি শক্তির জোগান দেয়, এদের শরীর থেকে খুব কম জল বের হয় এবং চওড়া পায়ের পাতা গরম বালিতে সহজেই হাঁটতে সাহায্য করে।"
         },
         {
-          "q": "how camel is adapted to desert",
-          "a": "Camel stores fat, needs less water and tolerates heat."
+          "q": "How is a cactus adapted to desert climates without water?",
+          "a": "A cactus stores water in its thick, fleshy green stem, and its leaves are reduced to spines to prevent water loss through transpiration."
         },
         {
-          "q": "উট মরুভূমির জন্য কীভাবে অভিযোজিত",
-          "a": "উট চর্বি সঞ্চয় করে, কম জল লাগে এবং বেশি তাপ সহ্য করে।"
+          "q": "ক্যাকটাস জাতীয় গাছ কীভাবে শুষ্ক মরুভূমিতে বেঁচে থাকে?",
+          "a": "ক্যাকটাসের পাতা কাঁটায় রূপান্তরিত হয় যাতে বাষ্পমোচন কম হয়, এবং এদের চ্যাপ্টা সবুজ কাণ্ড নিজেদের ভেতর জল সঞ্চয় করে রাখতে পারে।"
         },
         {
-          "q": "how cactus is adapted to desert",
-          "a": "Cactus stores water, has spines and thick stem."
+          "q": "Why do woolen clothes keep us warm in winter?",
+          "a": "Wool fibers trap a large amount of air. Since air is a poor conductor of heat, it prevents our natural body heat from escaping into the cold environment."
         },
         {
-          "q": "ক্যাকটাস মরুভূমির জন্য কীভাবে অভিযোজিত",
-          "a": "ক্যাকটাস জল সঞ্চয় করে, কাঁটা থাকে এবং মোটা কাণ্ড থাকে।"
+          "q": "শীতকালে উলের পোশাক আমাদের গরম রাখে কেন?",
+          "a": "উলের তন্তুগুলির মাঝে প্রচুর বাতাস আটকে থাকে। বাতাস তাপের কুপরিবাহী হওয়ায়, তা আমাদের শরীরের তাপকে কিছুতেই বাইরে বেরোতে দেয় না।"
         },
         {
-          "q": "why woollen clothes keep us warm",
-          "a": "Wool traps air and prevents heat loss."
+          "q": "What is the difference between a sea breeze and a land breeze?",
+          "a": "A sea breeze blows from the cooler sea to the warmer land during the day. Conversely, a land breeze blows from the cooler land to the warmer sea at night."
         },
         {
-          "q": "উলের কাপড় গরম রাখে কেন",
-          "a": "উল বায়ু আটকে রাখে ও তাপ বের হতে দেয় না।"
+          "q": "সমুদ্র বায়ু ও স্থল বায়ুর মধ্যে পার্থক্য কী?",
+          "a": "দিনের বেলা সমুদ্র থেকে স্থলের দিকে যে ঠান্ডা বাতাস বয়, তাকে সমুদ্র বায়ু বলে। আর রাতের বেলা স্থলভাগ থেকে সমুদ্রের দিকে যে বাতাস বয়, তাকে স্থল বায়ু বলে।"
         },
         {
-          "q": "what is sea breeze",
-          "a": "Cool air blowing from sea to land during day is sea breeze."
+          "q": "What is the greenhouse effect and how does it relate to global warming?",
+          "a": "The greenhouse effect is the trapping of the sun's heat by atmospheric gases (like CO2 and Methane). An excess of these gases traps too much heat, causing the Earth's average temperature to rise dangerously, which is known as global warming."
         },
         {
-          "q": "সমুদ্র বায়ু কি",
-          "a": "দিনে সমুদ্র থেকে স্থলের দিকে ঠান্ডা বায়ু প্রবাহ।"
+          "q": "গ্রিনহাউস ইফেক্ট ও বিশ্ব উষ্ণায়ন কী?",
+          "a": "বায়ুমণ্ডলের কার্বন ডাই-অক্সাইড, মিথেন ইত্যাদি গ্যাস পৃথিবীর তাপকে মহাশূন্যে ফিরে যেতে বাধা দেয়, একে গ্রিনহাউস ইফেক্ট বলে। এর মাত্রা অতিরিক্ত বাড়ার ফলে পৃথিবীর গড় তাপমাত্রা মারাত্মকভাবে বৃদ্ধি পাচ্ছে, যাকে বিশ্ব উষ্ণায়ন বা গ্লোবাল ওয়ার্মিং বলে।"
         },
         {
-          "q": "what is land breeze",
-          "a": "Air blowing from land to sea at night is land breeze."
+          "q": "What are the major threats of global warming and how can we prevent it?",
+          "a": "Global warming melts polar ice caps, raising sea levels and causing severe climate shifts. We can combat this by planting more trees, reducing fossil fuel usage, and lowering overall pollution."
         },
         {
-          "q": "স্থল বায়ু কি",
-          "a": "রাতে স্থল থেকে সমুদ্রের দিকে বায়ু প্রবাহ।"
-        },
-        {
-          "q": "what is greenhouse effect",
-          "a": "Trapping of heat by atmospheric gases is greenhouse effect."
-        },
-        {
-          "q": "গ্রীনহাউস প্রভাব কি",
-          "a": "বায়ুমণ্ডলের গ্যাসের দ্বারা তাপ আটকে যাওয়াকে গ্রীনহাউস প্রভাব বলে।"
-        },
-        {
-          "q": "what is global warming",
-          "a": "Increase in average earth temperature is global warming."
-        },
-        {
-          "q": "বিশ্ব উষ্ণায়ন কি",
-          "a": "পৃথিবীর গড় তাপমাত্রা বৃদ্ধি পাওয়াকে বিশ্ব উষ্ণায়ন বলে।"
-        },
-        {
-          "q": "causes of global warming",
-          "a": "Increase of greenhouse gases like carbon dioxide and methane."
-        },
-        {
-          "q": "বিশ্ব উষ্ণায়নের কারণ কি",
-          "a": "কার্বন ডাই-অক্সাইড ও মিথেনের মতো গ্যাস বৃদ্ধি।"
-        },
-        {
-          "q": "effects of global warming",
-          "a": "Melting ice, rise of sea level and climate change."
-        },
-        {
-          "q": "বিশ্ব উষ্ণায়নের ফল কি",
-          "a": "বরফ গলা, সমুদ্রপৃষ্ঠ বৃদ্ধি ও জলবায়ু পরিবর্তন।"
-        },
-        {
-          "q": "how to reduce global warming",
-          "a": "Plant trees, reduce pollution and save energy."
-        },
-        {
-          "q": "বিশ্ব উষ্ণায়ন কমানোর উপায় কি",
-          "a": "গাছ লাগানো, দূষণ কমানো ও শক্তি সঞ্চয়।"
+          "q": "গ্লোবাল ওয়ার্মিং-এর ক্ষতিকর প্রভাব কী এবং এটি কীভাবে কমানো সম্ভব?",
+          "a": "এর ফলে মেরু অঞ্চলের বরফ গলে সমুদ্রের জলস্তর বাড়ছে এবং জলবায়ুর মারাত্মক পরিবর্তন হচ্ছে। বেশি করে গাছ লাগানো, জীবাশ্ম জ্বালানির ব্যবহার কমানো এবং পরিবেশ দূষণ রোধ করার মাধ্যমেই এটি কমানো সম্ভব।"
         }
       ]
     }
