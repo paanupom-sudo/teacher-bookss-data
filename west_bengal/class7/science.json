@@ -3,178 +3,99 @@
   "class": "7",
   "subject": "Science",
   "version": "2.0",
-  "language": [
-    "English",
-    "Bengali"
-  ],
+  "language": ["English", "Bengali"],
   "chapters": [
     {
       "id": 1,
-      "name": "Motion",
-      "keywords": [
-        "motion",
-        "speed",
-        "velocity",
-        "distance",
-        "time",
-        "gati",
-        "গতি",
-        "চলন"
-      ],
-      "summary": "Motion means change of position of an object with time.",
-      "definition_bn": "সময়ের সাথে কোনো বস্তুর অবস্থান পরিবর্তনকে গতি বলে।",
+      "name": "Heat Environment",
+      "keywords": ["heat", "temperature", "thermometer", "তাপ", "উষ্ণতা", "ঠান্ডা", "গরম"],
+      "summary": "Heat and temperature help us understand hotness and coldness of objects.",
+      "definition_bn": "তাপ ও উষ্ণতা দ্বারা কোনো বস্তুর গরম বা ঠান্ডা অবস্থা বোঝা যায়।",
       "facts": [
-        "SI unit of speed = m/s",
-        "Velocity has direction",
-        "Distance is scalar quantity"
+        "Thermometer is used to measure temperature.",
+        "Touch cannot accurately measure hotness.",
+        "Temperature is measured by numbers."
       ],
       "qa": [
         {
-          "q": "what is motion",
-          "a": "Motion means change of position with time."
+          "q": "what is heat",
+          "a": "Heat is a form of energy which produces sensation of hotness."
         },
         {
-          "q": "গতি কি",
-          "a": "সময়ের সাথে অবস্থান পরিবর্তনকে গতি বলে।"
+          "q": "তাপ কি",
+          "a": "তাপ হলো এক প্রকার শক্তি যা গরমের অনুভূতি সৃষ্টি করে।"
         },
         {
-          "q": "what is speed",
-          "a": "Speed is distance travelled per unit time."
+          "q": "what is temperature",
+          "a": "Temperature is the measure of hotness or coldness of a body."
         },
         {
-          "q": "what is velocity",
-          "a": "Velocity is speed in a definite direction."
-        }
-      ]
-    },
-
-    {
-      "id": 2,
-      "name": "Force",
-      "keywords": [
-        "force",
-        "push",
-        "pull",
-        "newton",
-        "বল",
-        "bol"
-      ],
-      "summary": "Force is a push or pull which can change the state of motion of an object.",
-      "definition_bn": "বল হলো ঠেলা বা টান, যা বস্তুর গতি অবস্থা পরিবর্তন করতে পারে।",
-      "facts": [
-        "SI unit of force = Newton",
-        "Force can change speed",
-        "Force can change direction"
-      ],
-      "qa": [
-        {
-          "q": "what is force",
-          "a": "Force is a push or pull."
+          "q": "উষ্ণতা কি",
+          "a": "কোনো বস্তুর গরম বা ঠান্ডা অবস্থার পরিমাপকে উষ্ণতা বলে।"
         },
         {
-          "q": "বল কি",
-          "a": "বল হলো ঠেলা বা টান।"
+          "q": "why touch is not correct to measure hotness",
+          "a": "Touch gives only sensation, so it cannot measure temperature accurately."
         },
         {
-          "q": "unit of force",
-          "a": "SI unit of force is Newton."
-        }
-      ]
-    },
-
-    {
-      "id": 3,
-      "name": "Energy",
-      "keywords": [
-        "energy",
-        "work",
-        "kinetic",
-        "potential",
-        "শক্তি",
-        "sokti"
-      ],
-      "summary": "Energy is the capacity to do work.",
-      "definition_bn": "কাজ করার সামর্থ্যকে শক্তি বলে।",
-      "facts": [
-        "SI unit of energy = Joule",
-        "Energy cannot be destroyed",
-        "Energy can change form"
-      ],
-      "qa": [
-        {
-          "q": "what is energy",
-          "a": "Energy is the capacity to do work."
+          "q": "স্পর্শ দ্বারা তাপমাত্রা সঠিক বোঝা যায় না কেন",
+          "a": "স্পর্শে শুধু অনুভূতি পাওয়া যায়, তাই সঠিক তাপমাত্রা জানা যায় না।"
         },
         {
-          "q": "শক্তি কি",
-          "a": "কাজ করার সামর্থ্যকে শক্তি বলে।"
+          "q": "which instrument measures temperature",
+          "a": "Thermometer measures temperature."
         },
         {
-          "q": "unit of energy",
-          "a": "SI unit of energy is Joule."
-        }
-      ]
-    },
-
-    {
-      "id": 4,
-      "name": "Matter",
-      "keywords": [
-        "matter",
-        "solid",
-        "liquid",
-        "gas",
-        "পদার্থ",
-        "podartho"
-      ],
-      "summary": "Matter is anything that has mass and occupies space.",
-      "definition_bn": "যার ভর আছে এবং স্থান দখল করে তাকে পদার্থ বলে।",
-      "facts": [
-        "Three common states = solid, liquid, gas",
-        "Matter has mass",
-        "Matter occupies space"
-      ],
-      "qa": [
-        {
-          "q": "what is matter",
-          "a": "Matter is anything having mass and volume."
+          "q": "তাপমাত্রা মাপার যন্ত্র কি",
+          "a": "তাপমাত্রা মাপার যন্ত্র হলো থার্মোমিটার।"
         },
         {
-          "q": "পদার্থ কি",
-          "a": "যার ভর আছে ও স্থান দখল করে তাকে পদার্থ বলে।"
-        }
-      ]
-    },
-
-    {
-      "id": 5,
-      "name": "Cell",
-      "keywords": [
-        "cell",
-        "nucleus",
-        "biology",
-        "কোষ",
-        "kosh"
-      ],
-      "summary": "Cell is the basic structural and functional unit of life.",
-      "definition_bn": "কোষ হলো জীবনের গঠনগত ও কার্যগত মৌলিক একক।",
-      "facts": [
-        "Cell discovered by Robert Hooke",
-        "Nucleus controls cell activities",
-        "Plant cell has cell wall"
-      ],
-      "qa": [
-        {
-          "q": "what is cell",
-          "a": "Cell is the basic unit of life."
+          "q": "why numbers are used to express hotness",
+          "a": "Numbers give exact idea of temperature."
         },
         {
-          "q": "কোষ কি",
-          "a": "কোষ হলো জীবনের মৌলিক একক।"
+          "q": "গরম বা ঠান্ডা বোঝাতে সংখ্যা কেন ব্যবহার করা হয়",
+          "a": "সংখ্যা ব্যবহার করলে সঠিক তাপমাত্রা বোঝা যায়।"
         },
         {
-          "q": "who discovered cell",
-          "a": "Robert Hooke discovered cell."
+          "q": "what happens when coloured water bottle is kept in hot water",
+          "a": "The coloured water rises upward in the tube."
+        },
+        {
+          "q": "গরম জলে রঙিন জলভর্তি শিশি রাখলে কি হয়",
+          "a": "নলের ভিতরে রঙিন জল উপরে উঠে যায়।"
+        },
+        {
+          "q": "why coloured water rises in tube",
+          "a": "Because liquid expands when heated."
+        },
+        {
+          "q": "রঙিন জল উপরে উঠে যায় কেন",
+          "a": "তরল পদার্থ গরম হলে প্রসারিত হয় বলে।"
+        },
+        {
+          "q": "what is expansion",
+          "a": "Increase in size of a substance due to heating is called expansion."
+        },
+        {
+          "q": "প্রসারণ কাকে বলে",
+          "a": "তাপ পেয়ে কোনো পদার্থের আয়তন বৃদ্ধি পাওয়াকে প্রসারণ বলে।"
+        },
+        {
+          "q": "what happens to liquid on cooling",
+          "a": "Liquid contracts on cooling."
+        },
+        {
+          "q": "ঠান্ডা করলে তরলের কি হয়",
+          "a": "ঠান্ডা করলে তরল সঙ্কুচিত হয়।"
+        },
+        {
+          "q": "why thermometer uses liquid",
+          "a": "Because liquid expands and contracts clearly with temperature."
+        },
+        {
+          "q": "থার্মোমিটারে তরল ব্যবহার করা হয় কেন",
+          "a": "কারণ তরল তাপে প্রসারিত ও ঠান্ডায় সঙ্কুচিত হয়।"
         }
       ]
     }
