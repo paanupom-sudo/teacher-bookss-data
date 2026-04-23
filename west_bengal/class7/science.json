@@ -1,1 +1,183 @@
 
+{
+  "board": "West Bengal",
+  "class": "7",
+  "subject": "Science",
+  "version": "2.0",
+  "language": [
+    "English",
+    "Bengali"
+  ],
+  "chapters": [
+    {
+      "id": 1,
+      "name": "Motion",
+      "keywords": [
+        "motion",
+        "speed",
+        "velocity",
+        "distance",
+        "time",
+        "gati",
+        "গতি",
+        "চলন"
+      ],
+      "summary": "Motion means change of position of an object with time.",
+      "definition_bn": "সময়ের সাথে কোনো বস্তুর অবস্থান পরিবর্তনকে গতি বলে।",
+      "facts": [
+        "SI unit of speed = m/s",
+        "Velocity has direction",
+        "Distance is scalar quantity"
+      ],
+      "qa": [
+        {
+          "q": "what is motion",
+          "a": "Motion means change of position with time."
+        },
+        {
+          "q": "গতি কি",
+          "a": "সময়ের সাথে অবস্থান পরিবর্তনকে গতি বলে।"
+        },
+        {
+          "q": "what is speed",
+          "a": "Speed is distance travelled per unit time."
+        },
+        {
+          "q": "what is velocity",
+          "a": "Velocity is speed in a definite direction."
+        }
+      ]
+    },
+
+    {
+      "id": 2,
+      "name": "Force",
+      "keywords": [
+        "force",
+        "push",
+        "pull",
+        "newton",
+        "বল",
+        "bol"
+      ],
+      "summary": "Force is a push or pull which can change the state of motion of an object.",
+      "definition_bn": "বল হলো ঠেলা বা টান, যা বস্তুর গতি অবস্থা পরিবর্তন করতে পারে।",
+      "facts": [
+        "SI unit of force = Newton",
+        "Force can change speed",
+        "Force can change direction"
+      ],
+      "qa": [
+        {
+          "q": "what is force",
+          "a": "Force is a push or pull."
+        },
+        {
+          "q": "বল কি",
+          "a": "বল হলো ঠেলা বা টান।"
+        },
+        {
+          "q": "unit of force",
+          "a": "SI unit of force is Newton."
+        }
+      ]
+    },
+
+    {
+      "id": 3,
+      "name": "Energy",
+      "keywords": [
+        "energy",
+        "work",
+        "kinetic",
+        "potential",
+        "শক্তি",
+        "sokti"
+      ],
+      "summary": "Energy is the capacity to do work.",
+      "definition_bn": "কাজ করার সামর্থ্যকে শক্তি বলে।",
+      "facts": [
+        "SI unit of energy = Joule",
+        "Energy cannot be destroyed",
+        "Energy can change form"
+      ],
+      "qa": [
+        {
+          "q": "what is energy",
+          "a": "Energy is the capacity to do work."
+        },
+        {
+          "q": "শক্তি কি",
+          "a": "কাজ করার সামর্থ্যকে শক্তি বলে।"
+        },
+        {
+          "q": "unit of energy",
+          "a": "SI unit of energy is Joule."
+        }
+      ]
+    },
+
+    {
+      "id": 4,
+      "name": "Matter",
+      "keywords": [
+        "matter",
+        "solid",
+        "liquid",
+        "gas",
+        "পদার্থ",
+        "podartho"
+      ],
+      "summary": "Matter is anything that has mass and occupies space.",
+      "definition_bn": "যার ভর আছে এবং স্থান দখল করে তাকে পদার্থ বলে।",
+      "facts": [
+        "Three common states = solid, liquid, gas",
+        "Matter has mass",
+        "Matter occupies space"
+      ],
+      "qa": [
+        {
+          "q": "what is matter",
+          "a": "Matter is anything having mass and volume."
+        },
+        {
+          "q": "পদার্থ কি",
+          "a": "যার ভর আছে ও স্থান দখল করে তাকে পদার্থ বলে।"
+        }
+      ]
+    },
+
+    {
+      "id": 5,
+      "name": "Cell",
+      "keywords": [
+        "cell",
+        "nucleus",
+        "biology",
+        "কোষ",
+        "kosh"
+      ],
+      "summary": "Cell is the basic structural and functional unit of life.",
+      "definition_bn": "কোষ হলো জীবনের গঠনগত ও কার্যগত মৌলিক একক।",
+      "facts": [
+        "Cell discovered by Robert Hooke",
+        "Nucleus controls cell activities",
+        "Plant cell has cell wall"
+      ],
+      "qa": [
+        {
+          "q": "what is cell",
+          "a": "Cell is the basic unit of life."
+        },
+        {
+          "q": "কোষ কি",
+          "a": "কোষ হলো জীবনের মৌলিক একক।"
+        },
+        {
+          "q": "who discovered cell",
+          "a": "Robert Hooke discovered cell."
+        }
+      ]
+    }
+  ]
+}
